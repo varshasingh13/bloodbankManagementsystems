@@ -1,0 +1,52 @@
+/* BloodBankData.css */
+
+.blood-bank-data {
+    text-align: center;
+    padding-top: 20px;
+    height: 66.8vh;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border: 1px solid #ddd;
+    border-collapse: separate;
+    border-spacing: 8px;
+    margin-bottom: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: #7f1f35;/* Adjust the color for blood bank data */
+    color: white;
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+td:hover {
+    background-color: #e0e0e0;
+}
+
+
+.blood-bank-data {
+    /* Your existing styles for the blood-bank-data container */
+
+    .table-container {
+        max-height: 300px; /* Set the desired height */
+        overflow-y: auto;
+    }
+
+}

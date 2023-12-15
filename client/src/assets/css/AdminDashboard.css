@@ -1,0 +1,95 @@
+/* AdminDashboard.css */
+
+.admin-container {
+    text-align: center;
+    padding-top: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+
+.button-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.button {
+    border: none;
+    border-radius: 8px;
+    margin: 0 10px;
+    padding: 10px 20px; /* Adjust padding for increased button size */
+    /* Alternatively, you can use height and width for more control */
+    /* height: 40px; */
+    /* width: 120px; */
+}
+
+#newAppoint {
+    border: none;
+    border-radius: 8px;
+    height: 90px;
+    width: 160px;
+    /* margin-right: -10px; */
+    margin-left: 12%;
+}
+
+#pastAppoint {
+    border: none;
+    border-radius: 8px;
+    height: 90px;
+    width: 160px;
+    margin-right: 270px
+}
+
+#handlePatientRecords {
+    border: none;
+    border-radius: 8px;
+    height: 90px;
+    width: 160px;
+}
+
+#handleBloodBankData {
+    border: none;
+    border-radius: 8px;
+    height: 90px;
+    width: 160px;
+    margin-top: 40px;
+    margin-left: 6%;
+    margin-left: 12%;
+}
+
+#handleManageDonors {
+    border: none;
+    border-radius: 8px;
+    height: 90px;
+    width: 160px;
+    margin-top: 40px;
+    margin-left: 6%;
+
+}
+
+/* Add margin to the container to push it to the left */
+#newAppoint {
+    margin-right: auto;
+}
+
+/* Add margin to the container to push it to the right */
+#handleManageDonors {
+    margin-left: auto;
+}
+
+.admin-container {
+    margin-bottom: 10%;
+
+}
+
+#root{
+    background-image: url('../images/bbmHome/bbm5.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+

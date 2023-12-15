@@ -1,0 +1,75 @@
+
+header {
+    background: #e1a7af;
+    display: flex;
+    flex-direction: row;
+    padding: 1em;
+    gap: 1em;
+}
+
+.text-logo {
+    font-family: fantasy;
+    margin-left: -31px;
+    margin-top: -10px;
+    font-size: 30px;
+    color: #8a0707;
+}
+
+.search-bar {
+    padding: 0.5em;
+}
+
+#myImage {
+    margin-left: 19%;
+    margin-top: -24px;
+}
+
+#dropdownCartSection{
+    width: fit-content;
+    margin-left: 12%;
+}
+
+#searchbox{
+    border: none;
+    border-radius: 8px;
+    width: 220px;
+    height: 30px;
+}
+
+#logo{
+    margin-top: -30px;
+    margin-right: -30px;
+}
+
+#searchIcon{
+    margin-left: 217%;
+    margin-bottom: 10%;
+    margin-top: -25px;
+}
+
+.centered-input {
+    display: block; /* Make the input a block-level element */
+    margin-left: 130%;
+    width: 200px; /* Define the desired width for the input */
+    margin-top: -20px;
+    /* Additional styling, if needed */
+}
+
+.text-logo {
+    font-family: cursive, fantasy, serif; /* Change the font family to your desired font */
+
+}
+
+#headerHeight{
+    height: 140px;
+}
+#cartIcon{
+    width: fit-content;
+    margin-left: 90%;
+}
+
+@media (max-width: 600px) {
+    header {
+        flex-direction: column;
+    }
+}

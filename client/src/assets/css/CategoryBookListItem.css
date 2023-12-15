@@ -1,0 +1,51 @@
+
+.book-box {
+    display: flex;
+    flex-direction: column;
+    background-color: #e6e2de;
+    padding: 1em;
+    gap: 0.25em;
+    width: 23%;
+    height: 40%;
+}
+
+.book-title {
+    font-weight: bold;
+    font-family: 'Proza Libre',sans-serif;
+}
+
+.book-author {
+    font-style: italic;
+    font-weight: bold;
+    font-family: emoji;
+
+}
+
+#categoryBookImage{
+    height: 200px;
+    width: 150px;
+}
+
+#addCartBtn{
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #1765b0;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: fit-content;
+    height: 36px;
+}
+
+#cartImage{
+  width: 25px;
+}
+
+#readIcon{
+    width: 59px;
+    position: relative;
+    top: 42%;
+    left: 56%;
+    margin-bottom: -56px;
+}

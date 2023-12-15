@@ -1,0 +1,36 @@
+
+footer {
+    background: #e1a7af;
+    display: flex;
+    gap: 1em;
+}
+
+.links,
+.social-media-icons {
+    display: flex;
+    flex-direction: column;
+}
+
+.social-media-icons {
+    text-align: center;
+    gap: 0.25em;
+}
+
+#footerHeight{
+height: 98px;
+}
+
+.links{
+    margin-left: -4px;
+    margin-top: -1%;
+}
+
+.social-media-icons{
+    margin-top: -1%;
+}
+
+.copyright{
+    margin-left: 74%;
+    margin-top: 42px;
+    font-size: smaller;
+}

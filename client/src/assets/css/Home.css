@@ -1,0 +1,30 @@
+
+.home-pages  {
+    display: flex;
+
+}
+
+.welcome-text {
+    width: 52em;
+    background-color: #f9f5f5;
+    color: #ad0f0f;
+    padding: 1rem;
+    margin-top: 1rem;
+    font-size: larger;
+}
+.flow-content > * + * {
+    margin-top: 1rem;
+}
+
+/*
+  Giving various sections of your page this utility class
+  will ensure a nice padding around the contents.
+*/
+.container {
+    padding: 2rem;
+}
+
+#shopBtn{
+    border: none;
+    border-radius: 8px;
+}

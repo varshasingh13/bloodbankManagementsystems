@@ -1,0 +1,24 @@
+/* AboutUs.css */
+.about-us-container {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-bottom: 100px;
+    color: #ad0f0f;
+}
+#heading{
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.image-container {
+    margin-bottom: 30px;
+    margin-left: 180px;
+}
+
+.blood-bank-image {
+    width: 100%;
+    max-width: 400px; /* Adjust the maximum width as needed */
+    border-radius: 8px; /* Optional: Add a border radius for a rounded appearance */
+}

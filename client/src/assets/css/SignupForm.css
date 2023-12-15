@@ -1,0 +1,67 @@
+.signup-form-container {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.signUpField{
+    border-radius: 6px;
+}
+
+#signUp{
+
+        background-image: url('../images/bbmHome/bbm5.jpeg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+
+    width: 100%; /* Ensure the form takes the full width of the container */
+
+}
+
+label {
+    margin-bottom: 10px;
+}
+
+input,
+select,
+textarea {
+    margin-top: 5px;
+    padding: 8px;
+}
+
+button {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+form  .error {
+    color: red;
+    font-size: 12px;
+    color: #cc0033;
+    display: inline-block;
+    line-height: 15px;
+    margin: 5px 0 0;
+}
+
+#selectedDate{
+    border-radius: 8px;
+    margin-left: 6px;
+    width: 107%;
+}

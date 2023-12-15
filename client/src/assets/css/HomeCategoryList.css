@@ -1,0 +1,35 @@
+
+
+.home-list {
+    display: flex;
+    /*flex-direction: row;*/
+    /*flex-wrap: wrap;*/
+    gap: 1em;
+    padding: 3em;
+}
+
+.home-list-li{
+    text-align: center;
+    cursor: pointer;
+}
+#cateImage{
+    width: 770px;
+    height: 230px;
+}
+
+.home-list-div {
+    padding: 0.5em 0;
+    background: rgba(0, 0, 0, 0.5); /* last # is percent opacity */
+    color: white;
+    transform: translateY(-2.25em);
+    margin-bottom: -2em;
+}
+
+#homepic1{
+    width: 100%;
+    height: 300px;
+}
+#homepic2{
+    width: 100%;
+    height: 300px;
+}

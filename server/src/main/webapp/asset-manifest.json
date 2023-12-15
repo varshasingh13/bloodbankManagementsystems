@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/BloodBankManagementSystem/static/css/main.cef7d852.css",
+    "main.js": "/BloodBankManagementSystem/static/js/main.ceecb715.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/BloodBankManagementSystem/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/bbm5.jpeg": "/BloodBankManagementSystem/static/media/bbm5.d762aa32beb10dc0be0b.jpeg",
+    "static/media/bb3.png": "/BloodBankManagementSystem/static/media/bb3.fedad541a8b6b9dc9c2d.png",
+    "static/media/facebook.png": "/BloodBankManagementSystem/static/media/facebook.2aed51092291bb60bd79.png",
+    "static/media/bbLogo.png": "/BloodBankManagementSystem/static/media/bbLogo.5235563c90cc0a4f9cd2.png",
+    "static/media/twitter.png": "/BloodBankManagementSystem/static/media/twitter.57573394db94634d7e1f.png",
+    "index.html": "/BloodBankManagementSystem/index.html",
+    "main.cef7d852.css.map": "/BloodBankManagementSystem/static/css/main.cef7d852.css.map",
+    "main.ceecb715.js.map": "/BloodBankManagementSystem/static/js/main.ceecb715.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/BloodBankManagementSystem/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cef7d852.css",
+    "static/js/main.ceecb715.js"
+  ]
+}
